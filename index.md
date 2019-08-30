@@ -29,11 +29,9 @@ Information Visualization, Applications of Data Mining & Machine Learning
 
 - [OpyenXES: A Complete Python Library for the eXtensible Event Stream Standard][OpyenXES]. Hernan Valdivieso, Wai Lam Jonathan Lee, Jorge Munoz-Gama, and Marcos Sepúlveda. BPM Conference 2018 Demo Papers.
 
---------------
 
-## Tutorials
+- [Analyzing the Design Space for Visualizing Neural Attention in Text Classification][so]. Hernán Valdivieso, [Denis Parra][7], [Andrés Carvallo][11] & [Gabriel Rada][8], PUC, Chile. [Katrien Verbert][9], KU Leuven, Belgium & [Tobias Schreck][10], TU Graz, Austria. IEEE Vis Vancouver 2019, VisXAI Workshop.
 
-- [Analyzing the Design Space for Visualizing Neural Attention in Text Classification][so]. Hernán Valdivieso, Denis Parra, Andrés Carvallo & Gabriel Rada, PUC, Chile. Katrien Verbert, KU Leuven, Belgium & Tobias Schreck, TU Graz, Austria. VisXAI 2019.
 
 
 [so]: https://observablehq.com/@clpuc/analyzing-the-design-space-for-visualizing-neural-attenti
@@ -41,3 +39,8 @@ Information Visualization, Applications of Data Mining & Machine Learning
 [2]: http://socvis.ing.puc.cl
 [IMFD]: https://imfd.cl/
 [OpyenXES]: http://ceur-ws.org/Vol-2196/BPM_2018_paper_15.pdf 
+[7]: http://dparra.sitios.ing.uc.cl/
+[8]: https://medicina.uc.cl/persona/dr-gabriel-rada/
+[9]: https://wms.cs.kuleuven.be/cs/onderzoek/augment/katrien-verbert
+[10]: https://www.tugraz.at/institute/cgv/schreck/
+[11]: https://afcarvallo.github.io/

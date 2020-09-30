@@ -9,7 +9,8 @@ layout: home
 
 ## Research Groups 
 
-- Social Computing and Visualization Lab. [SocVis][SocVis] 
+- Artificial Intelligence Laboratory. [IALab][1]
+- Social Computing and Visualization Lab. [SocVis][2] 
 
 --------------
 
@@ -35,7 +36,7 @@ Information Visualization, Applications of Data Mining & Machine Learning
 
 
 [so]: https://observablehq.com/@clpuc/analyzing-the-design-space-for-visualizing-neural-attenti
-[SocVis]: http://ialab.ing.puc.cl/
+[1]: http://ialab.ing.puc.cl/
 [2]: http://socvis.ing.puc.cl
 [IMFD]: https://imfd.cl/
 [OpyenXES]: http://ceur-ws.org/Vol-2196/BPM_2018_paper_15.pdf 

@@ -33,6 +33,7 @@ Information Visualization, Applications of Data Mining & Machine Learning
 
 - [Analyzing the Design Space for Visualizing Neural Attention in Text Classification][ObHQ]. Hernán Valdivieso, [Denis Parra][D.parra], [Andrés Carvallo][A.carvallo] & [Gabriel Rada][G.rada], PUC, Chile. [Katrien Verbert][K.verbert], KU Leuven, Belgium & [Tobias Schreck][T.schreck], TU Graz, Austria. IEEE Vis Vancouver 2019, VisXAI Workshop.
 
+--------------
 
 ## Others works
 

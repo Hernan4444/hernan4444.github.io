@@ -34,9 +34,11 @@ Information Visualization, Applications of Data Mining & Machine Learning
 - [Analyzing the Design Space for Visualizing Neural Attention in Text Classification][ObHQ]. Hernán Valdivieso, [Denis Parra][D.parra], [Andrés Carvallo][A.carvallo] & [Gabriel Rada][G.rada], PUC, Chile. [Katrien Verbert][K.verbert], KU Leuven, Belgium & [Tobias Schreck][T.schreck], TU Graz, Austria. IEEE Vis Vancouver 2019, VisXAI Workshop.
 
 
-## Personal Projects
+## Others works
 
 - [Visualization Banner UC (spanish)][vis_banner].
+- [Force Graph visualization (spanish)][force-graph].
+- [Small Multiple with Idyll (spanish)][small-multiple-idyll] [(code)][small-multiple-idyll-source-code].
 
 
 [ObHQ]: https://observablehq.com/@clpuc/analyzing-the-design-space-for-visualizing-neural-attenti
@@ -50,3 +52,6 @@ Information Visualization, Applications of Data Mining & Machine Learning
 [T.schreck]: https://www.tugraz.at/institute/cgv/schreck/
 [A.carvallo]: https://afcarvallo.github.io/
 [vis_banner]: https://hernan4444.github.io/cupos-banner/
+[force-graph]: https://observablehq.com/@hernan4444/graph-force
+[small-multiple-idyll]: https://idyll.pub/post/my-idyll-post-7bc7963a86862073d73120d6/
+[small-multiple-idyll-source-code]: https://github.com/PUC-Infovis/syllabus-2018/tree/master/ayudantia12/ScrollSmallMultiples

@@ -37,6 +37,7 @@ Information Visualization, Applications of Data Mining & Machine Learning
 
 ## Others works
 
+- [Visualization about relationship between academic publications of the UC and the Sustainable Development Goals (SDGs) (spanish)][sustentabilidad_uc].
 - [Visualization Banner UC (spanish)][vis_banner].
 - [Force Graph visualization (spanish)][force-graph].
 - [Small Multiple with Idyll (spanish)][small-multiple-idyll] [(code)][small-multiple-idyll-source-code].
@@ -56,3 +57,4 @@ Information Visualization, Applications of Data Mining & Machine Learning
 [force-graph]: https://observablehq.com/@hernan4444/graph-force
 [small-multiple-idyll]: https://idyll.pub/post/my-idyll-post-7bc7963a86862073d73120d6/
 [small-multiple-idyll-source-code]: https://github.com/PUC-Infovis/syllabus-2018/tree/master/ayudantia12/ScrollSmallMultiples
+[sustentabilidad_uc]: http://146.155.155.67/

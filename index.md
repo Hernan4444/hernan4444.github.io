@@ -41,7 +41,7 @@ Information Visualization, Applications of Data Mining & Machine Learning
 - [Visualization Banner UC (spanish)][vis_banner].
 - [Force Graph visualization (spanish)][force-graph].
 - [Small Multiple with Idyll (spanish)][small-multiple-idyll] [(code)][small-multiple-idyll-source-code].
-
+- [Monogatari: create your own story with random cards (spanish)][monogatari]
 
 [ObHQ]: https://observablehq.com/@clpuc/analyzing-the-design-space-for-visualizing-neural-attenti
 [IALAB]: http://ialab.ing.puc.cl/
@@ -58,3 +58,4 @@ Information Visualization, Applications of Data Mining & Machine Learning
 [small-multiple-idyll]: https://idyll.pub/post/my-idyll-post-7bc7963a86862073d73120d6/
 [small-multiple-idyll-source-code]: https://github.com/PUC-Infovis/syllabus-2018/tree/master/ayudantia12/ScrollSmallMultiples
 [sustentabilidad_uc]: http://146.155.155.67/
+[monogatari]: https://hernan4444.github.io/monogatari/

@@ -37,7 +37,7 @@ Information Visualization, Applications of Data Mining & Machine Learning
 
 ## Others works
 
-- [Anime Recommendation Database 2020 (github repo)][anime github repo] [(kaggle link)][kaggle anime link].
+- [Anime Recommendation Database 2020 (kaggle)][kaggle anime link] [(code)][anime github repo].
 - [Visualization about relationship between academic publications of the UC and the Sustainable Development Goals (SDGs) (spanish)][sustentabilidad_uc].
 - [Visualization Banner UC (spanish)][vis_banner].
 - [Force Graph visualization (spanish)][force-graph].

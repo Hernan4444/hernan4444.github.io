@@ -35,8 +35,9 @@ minima:
   # generate social links in footer
   social_links:
     github:  hernan4444
-    telegram: HernyV
+    #telegram: HernyV
     observable: hernan4444
+    kaggle: hernan4444
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -35,13 +35,21 @@ Information Visualization, Applications of Data Mining & Machine Learning
 
 --------------
 
-## Others works
+## My projects
 
-- [Anime Recommendation Database 2020 (kaggle)][kaggle anime link] [(code)][anime github repo].
+### Datasets
+
+- [Anime Recommendation Database 2020 (kaggle)][kaggle anime myanimelist link] [(code)][anime github repo].
+- [Anime-Planet Recommendation Database 2020 (kaggle)][kaggle anime anime-planet link].
+
+### Visualizations with D3.js
+
 - [Visualization about relationship between academic publications of the UC and the Sustainable Development Goals (SDGs) (spanish)][sustentabilidad_uc].
 - [Visualization Banner UC (spanish)][vis_banner].
 - [Force Graph visualization (spanish)][force-graph].
 - [Small Multiple with Idyll (spanish)][small-multiple-idyll] [(code)][small-multiple-idyll-source-code].
+
+### Others
 - [Monogatari: create your own story with random cards (spanish)][monogatari]
 
 [ObHQ]: https://observablehq.com/@clpuc/analyzing-the-design-space-for-visualizing-neural-attenti
@@ -61,4 +69,7 @@ Information Visualization, Applications of Data Mining & Machine Learning
 [sustentabilidad_uc]: http://146.155.155.67/
 [monogatari]: https://hernan4444.github.io/monogatari/
 [anime github repo]: https://github.com/Hernan4444/MyAnimeList-Database
-[kaggle anime link]: https://www.kaggle.com/hernan4444/anime-recommendation-database-2020
+[kaggle anime myanimelist link]: https://www.kaggle.com/hernan4444/anime-recommendation-database-2020
+[kaggle anime anime-planet link]: https://www.kaggle.com/hernan4444/animeplanet-recommendation-database-2020
+
+

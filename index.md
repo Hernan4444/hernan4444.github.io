@@ -44,6 +44,7 @@ Information Visualization, Applications of Data Mining & Machine Learning
 
 ### Visualizations with D3.js
 
+- [**Draw Your data**: draw the visualization and download the dataset to generate that visualization][draw_your_data]
 - [Visualization about relationship between academic publications of the UC and the Sustainable Development Goals (SDGs) (spanish)][sustentabilidad_uc].
 - [Visualization Banner UC (spanish)][vis_banner].
 - [Force Graph visualization (spanish)][force-graph].
@@ -71,5 +72,6 @@ Information Visualization, Applications of Data Mining & Machine Learning
 [anime github repo]: https://github.com/Hernan4444/MyAnimeList-Database
 [kaggle anime myanimelist link]: https://www.kaggle.com/hernan4444/anime-recommendation-database-2020
 [kaggle anime anime-planet link]: https://www.kaggle.com/hernan4444/animeplanet-recommendation-database-2020
+[draw_your_data]: https://hernan4444.github.io/draw-your-data/
 
 

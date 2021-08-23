@@ -41,6 +41,9 @@ Information Visualization, Applications of Data Mining & Machine Learning
 
 - [Anime Recommendation Database 2020 (kaggle)][kaggle anime myanimelist link] [(code)][anime github repo].
 - [Anime-Planet Recommendation Database 2020 (kaggle)][kaggle anime anime-planet link].
+- [Anime-Planet Character (waifus/husbando) Database 2020 (kaggle)][kaggle waifus/husbando anime-planet link].
+
+
 
 ### Visualizations with D3.js
 
@@ -73,5 +76,6 @@ Information Visualization, Applications of Data Mining & Machine Learning
 [kaggle anime myanimelist link]: https://www.kaggle.com/hernan4444/anime-recommendation-database-2020
 [kaggle anime anime-planet link]: https://www.kaggle.com/hernan4444/animeplanet-recommendation-database-2020
 [draw_your_data]: https://hernan4444.github.io/draw-your-data/
+[kaggle waifus/husbando anime-planet link]: https://www.kaggle.com/hernan4444/animeplanet-character-recommendation
 
 

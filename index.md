@@ -70,7 +70,7 @@ Information Visualization, Applications of Data Mining & Machine Learning
 [force-graph]: https://observablehq.com/@hernan4444/graph-force
 [small-multiple-idyll]: https://idyll.pub/post/my-idyll-post-7bc7963a86862073d73120d6/
 [small-multiple-idyll-source-code]: https://github.com/PUC-Infovis/syllabus-2018/tree/master/ayudantia12/ScrollSmallMultiples
-[sustentabilidad_uc]: http://146.155.155.67/
+[sustentabilidad_uc]: http://ods.desarrollosustentable.uc.cl/
 [monogatari]: https://hernan4444.github.io/monogatari/
 [anime github repo]: https://github.com/Hernan4444/MyAnimeList-Database
 [kaggle anime myanimelist link]: https://www.kaggle.com/hernan4444/anime-recommendation-database-2020

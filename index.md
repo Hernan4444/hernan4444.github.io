@@ -28,10 +28,12 @@ Information Visualization, Applications of Data Mining & Machine Learning
 
 ## Publications
 
-- [OpyenXES: A Complete Python Library for the eXtensible Event Stream Standard][OpyenXES]. Hernan Valdivieso, Wai Lam Jonathan Lee, Jorge Munoz-Gama, and Marcos Sepúlveda. BPM Conference 2018 Demo Papers.
-
+- [_Desarrollo y evaluación de un modelo de diseño de visualizaciones para inteligencia artificial explicable_ [Development and evaluation of a visualization design model for explainable artificial intelligence]](https://repositorio.uc.cl/handle/11534/63178). Master's thesis in the Pontifica Universidad Católica de Chile, Santiago, Chile. 2022.
 
 - [Analyzing the Design Space for Visualizing Neural Attention in Text Classification][ObHQ]. Hernán Valdivieso, [Denis Parra][D.parra], [Andrés Carvallo][A.carvallo] & [Gabriel Rada][G.rada], PUC, Chile. [Katrien Verbert][K.verbert], KU Leuven, Belgium & [Tobias Schreck][T.schreck], TU Graz, Austria. IEEE Vis Vancouver 2019, VisXAI Workshop.
+
+
+- [OpyenXES: A Complete Python Library for the eXtensible Event Stream Standard][OpyenXES]. Hernan Valdivieso, Wai Lam Jonathan Lee, Jorge Munoz-Gama, and Marcos Sepúlveda. BPM Conference 2018 Demo Papers.
 
 --------------
 

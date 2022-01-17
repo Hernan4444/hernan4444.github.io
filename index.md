@@ -30,6 +30,10 @@ Information Visualization, Applications of Data Mining & Machine Learning
 
 - [_Desarrollo y evaluación de un modelo de diseño de visualizaciones para inteligencia artificial explicable_ [Development and evaluation of a visualization design model for explainable artificial intelligence]](https://repositorio.uc.cl/handle/11534/63178). Master's thesis in the Pontifica Universidad Católica de Chile, Santiago, Chile. 2022.
 
+- Marcelo Mendoza, Hans Lobel, Naim Bro, Felipe Gutierrez, Francesca Lucchini, Hernan Valdivieso, Camila Vera. Finding neighborhoods in Santiago, Chile: a graph neural network approach to urban cluster detection. In: Urban Complex Systems, October 27, 2021.
+
+- Camila Vera, Francesca Lucchini, Felipe Gutiérrez, Hernán Valdivieso, Hans Löbel, Naim Bro, Marcelo Mendoza. Parametric sensitivity in Graph Neural Network for Urban Cluster Detection, a case study. Proceedings of the 10th International Conference on Complex Networks and Their Applications, November 30 - December 2, Madrid, Spain, 2021.
+
 - [Analyzing the Design Space for Visualizing Neural Attention in Text Classification][ObHQ]. Hernán Valdivieso, [Denis Parra][D.parra], [Andrés Carvallo][A.carvallo] & [Gabriel Rada][G.rada], PUC, Chile. [Katrien Verbert][K.verbert], KU Leuven, Belgium & [Tobias Schreck][T.schreck], TU Graz, Austria. IEEE Vis Vancouver 2019, VisXAI Workshop.
 
 

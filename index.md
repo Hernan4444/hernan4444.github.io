@@ -55,6 +55,7 @@ Information Visualization, Applications of Data Mining & Machine Learning
 
 - [**Draw Your data**: draw the visualization and download the dataset to generate that visualization][draw_your_data]
 - [Visualization about relationship between academic publications of the UC and the Sustainable Development Goals (SDGs) (spanish)][sustentabilidad_uc].
+- [Visualization course requirements DCC UC (spanish)][requisitos_dcc]
 - [Visualization Banner UC (spanish)][vis_banner].
 - [Force Graph visualization (spanish)][force-graph].
 - [Small Multiple with Idyll (spanish)][small-multiple-idyll] [(code)][small-multiple-idyll-source-code].
@@ -83,5 +84,5 @@ Information Visualization, Applications of Data Mining & Machine Learning
 [kaggle anime anime-planet link]: https://www.kaggle.com/hernan4444/animeplanet-recommendation-database-2020
 [draw_your_data]: https://hernan4444.github.io/draw-your-data/
 [kaggle waifus/husbando anime-planet link]: https://www.kaggle.com/hernan4444/animeplanet-character-recommendation
-
+[requisitos_dcc]: https://observablehq.com/@hernan4444/requisitos-dcc
 

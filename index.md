@@ -6,6 +6,11 @@ layout: home
 ---
 
 --------------
+## Curriculum
+
+[Link al CV](https://github.com/Hernan4444/hernan4444.github.io/blob/master/CV%20-%20Herna%CC%81n%20Valdivieso.pdf)
+
+--------------
 
 ## Research Groups 
 

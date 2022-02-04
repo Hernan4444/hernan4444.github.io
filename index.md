@@ -6,11 +6,6 @@ layout: home
 ---
 
 --------------
-## Curriculum Vitae (CV)
-
-[Link to CV (spanish version)](https://hernan4444.github.io/CV%20-%20Herna%CC%81n%20Valdivieso.pdf).
-
---------------
 
 ## Education
 
@@ -27,30 +22,9 @@ layout: home
 
 --------------
 
-## Projects 
-
-- Associate Researcher in Fondecyt Project *Harnessing Information Visualization and Interactivity to Develop Interfaces for Explainable AI*. 
-
---------------
-
 ## Research interests 
 
 Information Visualization, Applications of Data Mining & Machine Learning
-
---------------
-
-## Publications
-
-- [_Desarrollo y evaluación de un modelo de diseño de visualizaciones para inteligencia artificial explicable_ [Development and evaluation of a visualization design model for explainable artificial intelligence]](https://repositorio.uc.cl/handle/11534/63178). Master's thesis in the Pontifica Universidad Católica de Chile, Santiago, Chile. 2022.
-
-- Marcelo Mendoza, Hans Lobel, Naim Bro, Felipe Gutierrez, Francesca Lucchini, Hernan Valdivieso, Camila Vera. Finding neighborhoods in Santiago, Chile: a graph neural network approach to urban cluster detection. In: Urban Complex Systems, October 27, 2021.
-
-- Camila Vera, Francesca Lucchini, Felipe Gutiérrez, Hernán Valdivieso, Hans Löbel, Naim Bro, Marcelo Mendoza. Parametric sensitivity in Graph Neural Network for Urban Cluster Detection, a case study. Proceedings of the 10th International Conference on Complex Networks and Their Applications, November 30 - December 2, Madrid, Spain, 2021.
-
-- [Analyzing the Design Space for Visualizing Neural Attention in Text Classification][ObHQ]. Hernán Valdivieso, [Denis Parra][D.parra], [Andrés Carvallo][A.carvallo] & [Gabriel Rada][G.rada], PUC, Chile. [Katrien Verbert][K.verbert], KU Leuven, Belgium & [Tobias Schreck][T.schreck], TU Graz, Austria. IEEE Vis Vancouver 2019, VisXAI Workshop.
-
-
-- [OpyenXES: A Complete Python Library for the eXtensible Event Stream Standard][OpyenXES]. Hernan Valdivieso, Wai Lam Jonathan Lee, Jorge Munoz-Gama, and Marcos Sepúlveda. BPM Conference 2018 Demo Papers.
 
 --------------
 
@@ -61,7 +35,6 @@ Information Visualization, Applications of Data Mining & Machine Learning
 - [Anime Recommendation Database 2020 (kaggle)][kaggle anime myanimelist link] [(code)][anime github repo].
 - [Anime-Planet Recommendation Database 2020 (kaggle)][kaggle anime anime-planet link].
 - [Anime-Planet Character (waifus/husbando) Database 2020 (kaggle)][kaggle waifus/husbando anime-planet link].
-
 
 
 ### Visualizations with D3.js
@@ -81,7 +54,24 @@ Information Visualization, Applications of Data Mining & Machine Learning
 - [**Small Multiple with Idyll** (spanish visualization)][small-multiple-idyll]: learn how use Idyll to create a scrollytelling visualization. [(code)][small-multiple-idyll-source-code].
 
 ### Others
-- [Monogatari: create your own story with random cards (spanish project)][monogatari]
+- [**Monogatari** (spanish project)][monogatari]: create your own story with random cards.
+
+--------------
+
+## Publications
+
+- [_Desarrollo y evaluación de un modelo de diseño de visualizaciones para inteligencia artificial explicable_ [Development and evaluation of a visualization design model for explainable artificial intelligence]](https://repositorio.uc.cl/handle/11534/63178). Master's thesis in the Pontifica Universidad Católica de Chile, Santiago, Chile. 2022.
+
+- Marcelo Mendoza, Hans Lobel, Naim Bro, Felipe Gutierrez, Francesca Lucchini, Hernan Valdivieso, Camila Vera. Finding neighborhoods in Santiago, Chile: a graph neural network approach to urban cluster detection. In: Urban Complex Systems, October 27, 2021.
+
+- Camila Vera, Francesca Lucchini, Felipe Gutiérrez, Hernán Valdivieso, Hans Löbel, Naim Bro, Marcelo Mendoza. Parametric sensitivity in Graph Neural Network for Urban Cluster Detection, a case study. Proceedings of the 10th International Conference on Complex Networks and Their Applications, November 30 - December 2, Madrid, Spain, 2021.
+
+- [Analyzing the Design Space for Visualizing Neural Attention in Text Classification][ObHQ]. Hernán Valdivieso, [Denis Parra][D.parra], [Andrés Carvallo][A.carvallo] & [Gabriel Rada][G.rada], PUC, Chile. [Katrien Verbert][K.verbert], KU Leuven, Belgium & [Tobias Schreck][T.schreck], TU Graz, Austria. IEEE Vis Vancouver 2019, VisXAI Workshop.
+
+
+- [OpyenXES: A Complete Python Library for the eXtensible Event Stream Standard][OpyenXES]. Hernan Valdivieso, Wai Lam Jonathan Lee, Jorge Munoz-Gama, and Marcos Sepúlveda. BPM Conference 2018 Demo Papers.
+
+
 
 [ObHQ]: https://observablehq.com/@clpuc/analyzing-the-design-space-for-visualizing-neural-attenti
 [IALAB]: http://ialab.ing.puc.cl/

@@ -14,9 +14,9 @@ layout: home
 
 ## Education
 
-- **August 2019 - January 2022**: Master of Engineering Sciences, specialty in Computer Science. _Pontificia Universidad Católica de Chile_. Thesis: [_Desarrollo y evaluación de un modelo de diseño de visualizaciones para inteligencia artificial explicable_ [Development and evaluation of a visualization design model for explainable artificial intelligence]](https://repositorio.uc.cl/handle/11534/63178).
+- August 2019 - January 2022: **Master of Engineering Sciences, specialty in Computer Science**. _Pontificia Universidad Católica de Chile_. Thesis: [_Desarrollo y evaluación de un modelo de diseño de visualizaciones para inteligencia artificial explicable_ [Development and evaluation of a visualization design model for explainable artificial intelligence]](https://repositorio.uc.cl/handle/11534/63178).
 
-- **March 2015 - July 2019**: Bachelor of Science in Computer Science. _Pontificia Universidad Católica de Chile_.
+- March 2015 - July 2019: **Bachelor of Science in Computer Science**. _Pontificia Universidad Católica de Chile_.
 
 --------------
 

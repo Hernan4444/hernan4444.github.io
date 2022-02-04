@@ -8,7 +8,7 @@ layout: home
 --------------
 ## Curriculum Vitae (CV)
 
-[Link al CV.](https://github.com/Hernan4444/hernan4444.github.io/blob/master/CV%20-%20Herna%CC%81n%20Valdivieso.pdf)
+[Link to CV (spanish version).](https://hernan4444.github.io/CV%20-%20Herna%CC%81n%20Valdivieso.pdf)
 
 --------------
 

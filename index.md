@@ -96,5 +96,5 @@ Information Visualization, Applications of Data Mining & Machine Learning
 [kaggle anime anime-planet link]: https://www.kaggle.com/hernan4444/animeplanet-recommendation-database-2020
 [draw_your_data]: https://hernan4444.github.io/draw-your-data/
 [kaggle waifus/husbando anime-planet link]: https://www.kaggle.com/hernan4444/animeplanet-character-recommendation
-[requisitos_dcc]: https://observablehq.com/@hernan4444/requisitos-dcc
+[requisitos_dcc]: https://observablehq.com/@hernan4444/dcc-requisitos
 [myanimelist-visualization]: https://hernan4444.gitlab.io/myanimelist-visualization

@@ -60,7 +60,7 @@ Information Visualization, Applications of Data Mining & Machine Learning
 
 - [**Draw Your data**][draw_your_data]: draw the visualization and download the dataset to generate that visualization.
 
-- [**MyAnimeList Visualization**][myanimelist-visualization]: explore animes releases from 1917 to 2021 with this visualization. Discover the most relevant words of the synopsis according to the anime's genre. See how change the distribution of anime scores depending on the age-rating and its type. This visualizatión use the [Anime Recommendation Database 2020 (kaggle)][kaggle anime myanimelist link]. 
+- [**MyAnimeList Visualization**][myanimelist-visualization]: explore animes releases from 1917 to 2021 with this visualization. Discover the most relevant words of the synopsis according to the anime's genre. See how change the distribution of anime scores depending on the age-rating and its type. This visualization use the [Anime Recommendation Database 2020 (kaggle)][kaggle anime myanimelist link]. 
 
 - [**SDGs Visualization** (spanish visualization)][sustentabilidad_uc]: explore the relationship between academic publications of the UC and the Sustainable Development Goals (SDGs).
 

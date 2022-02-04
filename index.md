@@ -58,15 +58,22 @@ Information Visualization, Applications of Data Mining & Machine Learning
 
 ### Visualizations with D3.js
 
-- [**Draw Your data**: draw the visualization and download the dataset to generate that visualization][draw_your_data]
-- [Visualization about relationship between academic publications of the UC and the Sustainable Development Goals (SDGs) (spanish)][sustentabilidad_uc].
-- [Visualization course requirements DCC UC (spanish)][requisitos_dcc]
-- [Visualization Banner UC (spanish)][vis_banner].
-- [Force Graph visualization (spanish)][force-graph].
-- [Small Multiple with Idyll (spanish)][small-multiple-idyll] [(code)][small-multiple-idyll-source-code].
+- [**Draw Your data**][draw_your_data]: draw the visualization and download the dataset to generate that visualization.
+
+- [**MyAnimeList Visualization**][myanimelist-visualization]: explore animes releases from 1917 to 2021 with this visualization. Discover the most relevant words of the synopsis according to the anime's genre. See how change the distribution of anime scores depending on the age-rating and its type. This visualizatión use the [Anime Recommendation Database 2020 (kaggle)][kaggle anime myanimelist link]. 
+
+- [**SDGs Visualization** (spanish visualization)][sustentabilidad_uc]: explore the relationship between academic publications of the UC and the Sustainable Development Goals (SDGs).
+
+- [**DCC Requirements** (spanish visualization)][requisitos_dcc]: check the requirements of each course from DCC UC.
+
+- [**Banner UC vacancies** (spanish visualization)][vis_banner]: Explore how to change UC course vacancies for each course enrollment starting in 2019.
+
+- [**Force Graph visualization** (spanish visualization)][force-graph]: check how to change the force graph when some parameters are edited.
+
+- [**Small Multiple with Idyll** (spanish visualization)][small-multiple-idyll]: learn how use Idyll to create a scrollytelling visualization. [(code)][small-multiple-idyll-source-code].
 
 ### Others
-- [Monogatari: create your own story with random cards (spanish)][monogatari]
+- [Monogatari: create your own story with random cards (spanish project)][monogatari]
 
 [ObHQ]: https://observablehq.com/@clpuc/analyzing-the-design-space-for-visualizing-neural-attenti
 [IALAB]: http://ialab.ing.puc.cl/
@@ -90,4 +97,4 @@ Information Visualization, Applications of Data Mining & Machine Learning
 [draw_your_data]: https://hernan4444.github.io/draw-your-data/
 [kaggle waifus/husbando anime-planet link]: https://www.kaggle.com/hernan4444/animeplanet-character-recommendation
 [requisitos_dcc]: https://observablehq.com/@hernan4444/requisitos-dcc
-
+[myanimelist-visualization]: https://hernan4444.gitlab.io/myanimelist-visualization

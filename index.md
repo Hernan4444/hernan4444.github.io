@@ -57,6 +57,8 @@ Information Visualization, Applications of Data Mining & Machine Learning
 - [**Monogatari** (spanish project)][monogatari]: create your own story with random cards.
 
 - [**Tic Tac Toe Version 2**][tic-tac-toe]: play Tic Tac Toe where the tokens can eat the smallest tokens.
+
+
 --------------
 
 ## Publications

@@ -55,7 +55,8 @@ Information Visualization, Applications of Data Mining & Machine Learning
 
 ### Others
 - [**Monogatari** (spanish project)][monogatari]: create your own story with random cards.
-- [Tic Tac Toe Version 2][tic tac toe]: play Tic Tac Toe where the tokens can eat the smallest tokens.
+
+- [**Tic Tac Toe Version 2**][tic-tac-toe]: play Tic Tac Toe where the tokens can eat the smallest tokens.
 --------------
 
 ## Publications
@@ -72,7 +73,7 @@ Information Visualization, Applications of Data Mining & Machine Learning
 - [OpyenXES: A Complete Python Library for the eXtensible Event Stream Standard][OpyenXES]. Hernan Valdivieso, Wai Lam Jonathan Lee, Jorge Munoz-Gama, and Marcos Sepúlveda. BPM Conference 2018 Demo Papers.
 
 
-[tic tac toe]: https://hernan4444.github.io/tic-tac-toe/
+[tic-tac-toe]: https://hernan4444.github.io/tic-tac-toe/
 [ObHQ]: https://observablehq.com/@clpuc/analyzing-the-design-space-for-visualizing-neural-attenti
 [IALAB]: http://ialab.ing.puc.cl/
 [HAIvis]: http://haivis.ing.puc.cl

@@ -53,6 +53,8 @@ Information Visualization, Applications of Data Mining & Machine Learning
 
 - [**Small Multiple with Idyll** (spanish visualization)][small-multiple-idyll]: learn how use Idyll to create a scrollytelling visualization. [(code)][small-multiple-idyll-source-code].
 
+- [**Barchart with Piechart** (spanish visualization)][barchart-piechart]: example of using the pie chart as a complement to a bar chart.
+
 ### Others
 - [**Monogatari** (spanish project)][monogatari]: create your own story with random cards.
 
@@ -99,3 +101,4 @@ Information Visualization, Applications of Data Mining & Machine Learning
 [kaggle waifus/husbando anime-planet link]: https://www.kaggle.com/hernan4444/animeplanet-character-recommendation
 [requisitos_dcc]: https://observablehq.com/@hernan4444/dcc-requisitos
 [myanimelist-visualization]: https://hernan4444.gitlab.io/myanimelist-visualization
+[barchart-piechart]: https://hernan4444.github.io/barchart-with-piechart/

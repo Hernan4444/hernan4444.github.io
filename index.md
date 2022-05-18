@@ -28,6 +28,12 @@ Information Visualization, Applications of Data Mining & Machine Learning
 
 --------------
 
+## Teaching (spanish course)
+
+- [2022-2 IIC2026: Information Visualization](https://puc-infovis.github.io/version-2022/)
+
+--------------
+
 ## My projects
 
 ### Datasets

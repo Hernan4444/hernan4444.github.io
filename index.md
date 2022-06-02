@@ -61,6 +61,8 @@ Information Visualization, Applications of Data Mining & Machine Learning
 
 - [**Barchart with Piechart** (spanish visualization)][barchart-piechart]: example of using the pie chart as a complement to a bar chart.
 
+- [**Bar Chart race compilation**][barchart-race]: visualize different datasets with an Bar chart race.
+
 ### Others
 - [**Monogatari** (spanish project)][monogatari]: create your own story with random cards.
 
@@ -108,3 +110,4 @@ Information Visualization, Applications of Data Mining & Machine Learning
 [requisitos_dcc]: https://observablehq.com/@hernan4444/dcc-requisitos
 [myanimelist-visualization]: https://hernan4444.gitlab.io/myanimelist-visualization
 [barchart-piechart]: https://hernan4444.github.io/barchart-with-piechart/
+[barchart-race]: https://hernan4444.github.io/barchart-race/

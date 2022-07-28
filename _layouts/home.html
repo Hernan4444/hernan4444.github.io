@@ -4,14 +4,16 @@ layout: default
 
 <div class="home">
   {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
+  <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
   <div style="padding-bottom: 20px; text-align: center">
-      <img src="{{ '/assets/perfil_2.jpeg' | relative_url }}" width="50%" style="border-radius: 50%">
-    <div> <a href="https://hernan4444.github.io/CV%20-%20Herna%CC%81n%20Valdivieso.pdf" target="_blank">Link to CV (spanish version)</a></div>
+    <img src="{{ '/assets/perfil_23.jpg' | relative_url }}"
+      style="border-radius: 100%;height: 300px;object-fit: cover;width: 300px;">
+    <div> <a href="https://hernan4444.github.io/CV%20-%20Herna%CC%81n%20Valdivieso.pdf" target="_blank">Link to CV
+        (spanish version)</a></div>
   </div>
-    {{ content }}
+  {{ content }}
 
 
 

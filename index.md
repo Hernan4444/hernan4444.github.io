@@ -63,6 +63,8 @@ Information Visualization, Applications of Data Mining & Machine Learning
 
 - [**Bar Chart race compilation**][barchart-race]: visualize different datasets with an Bar chart race.
 
+- [**Language-Network**](https://hernan4444.github.io/Language-Network/): show language similarity based on the Levenshtein distance, a string metric for measuring the difference between two words. Work done by other people, but not currently working. I only edited the minimum necessary to make the visualization work again.
+
 ### Others
 - [**Monogatari** (spanish project)][monogatari]: create your own story with random cards.
 

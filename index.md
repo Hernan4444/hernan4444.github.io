@@ -31,6 +31,7 @@ Information Visualization, Applications of Data Mining & Machine Learning
 ## Teaching (spanish course)
 
 - [2022-2 IIC2026: Information Visualization](https://puc-infovis.github.io/version-2022/)
+- [2022-2 IIC2233: Advanced Computer Programming](https://github.com/IIC2233/Syllabus)
 
 --------------
 
@@ -64,6 +65,8 @@ Information Visualization, Applications of Data Mining & Machine Learning
 - [**Bar Chart race compilation**][barchart-race]: visualize different datasets with an Bar chart race.
 
 - [**Language-Network**](https://hernan4444.github.io/Language-Network/): show language similarity based on the Levenshtein distance, a string metric for measuring the difference between two words. Work done [by other people](http://languagenetwork.cotrino.com/), but not currently working. I only edited the minimum necessary to make the visualization work again.
+
+- [**Museum MONA visualization** (spanish visualization)][museum-mona-visualization]: artistic visualization  to explore data about the Mona museum. Homework for the students of my course Visualization of information in 2022-2.
 
 ### Others
 - [**Monogatari** (spanish project)][monogatari]: create your own story with random cards.
@@ -113,3 +116,4 @@ Information Visualization, Applications of Data Mining & Machine Learning
 [myanimelist-visualization]: https://hernan4444.gitlab.io/myanimelist-visualization
 [barchart-piechart]: https://hernan4444.github.io/barchart-with-piechart/
 [barchart-race]: https://hernan4444.github.io/barchart-race/
+[museum-mona-visualization]: https://hernan4444.github.io/artist-mona-2022-2/

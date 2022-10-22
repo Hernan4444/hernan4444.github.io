@@ -90,7 +90,6 @@ Information Visualization, Applications of Data Mining & Machine Learning
 - [OpyenXES: A Complete Python Library for the eXtensible Event Stream Standard][OpyenXES]. Hernan Valdivieso, Wai Lam Jonathan Lee, Jorge Munoz-Gama, and Marcos Sepúlveda. BPM Conference 2018 Demo Papers.
 
 
-[tic-tac-toe]: https://hernan4444.github.io/tic-tac-toe/
 [ObHQ]: https://observablehq.com/@clpuc/analyzing-the-design-space-for-visualizing-neural-attenti
 [IALAB]: http://ialab.ing.puc.cl/
 [HAIvis]: http://haivis.ing.puc.cl
@@ -114,6 +113,7 @@ Information Visualization, Applications of Data Mining & Machine Learning
 [kaggle waifus/husbando anime-planet link]: https://www.kaggle.com/hernan4444/animeplanet-character-recommendation
 [requisitos_dcc]: https://observablehq.com/@hernan4444/dcc-requisitos
 [myanimelist-visualization]: https://hernan4444.gitlab.io/myanimelist-visualization
-[barchart-piechart]: https://hernan4444.github.io/barchart-with-piechart/
-[barchart-race]: https://hernan4444.github.io/barchart-race/
-[museum-mona-visualization]: https://hernan4444.github.io/artist-mona-2022-2/
+[barchart-piechart]: https://hernan4444.github.io/iic2026/otros/barchart-with-piechart/
+[barchart-race]: https://hernan4444.github.io/iic2026/otros/barchart-race/
+[tic-tac-toe]: https://hernan4444.github.io/iic2026/otros/tic-tac-toe/
+[museum-mona-visualization]: https://hernan4444.github.io/iic2026/2022_2/Soluciones/T02/

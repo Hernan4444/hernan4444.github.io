@@ -30,8 +30,10 @@ Information Visualization, Applications of Data Mining & Machine Learning
 
 ## Teaching (spanish course)
 
+- [2023-1 IIC2026: Information Visualization](https://puc-infovis.github.io/version-2023-1/)
+- [2023-1 IIC2233: Advanced Computer Programming](https://github.com/IIC2233/Syllabus)
 - [2022-2 IIC2026: Information Visualization](https://puc-infovis.github.io/version-2022/)
-- [2022-2 IIC2233: Advanced Computer Programming](https://github.com/IIC2233/Syllabus)
+- [2022-2 IIC2233: Advanced Computer Programming](https://github.com/IIC2233/Syllabus-2022-2)
 
 --------------
 
@@ -77,6 +79,8 @@ Information Visualization, Applications of Data Mining & Machine Learning
 --------------
 
 ## Publications
+
+- Vera, Camila & Lucchini, Francesca & Bro, Naim & Mendoza, Marcelo & Löbel, Hans & Gutiérrez, Felipe & Dimter, Jan & Cuchacovic, Gabriel & Reyes, Axel & Valdivieso, Hernán & Alvarado, Nicolás & Toro, Sergio. (2022). [Learning to cluster urban areas: two competitive approaches and an empirical validation](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-022-00374-2). EPJ Data Science. 11. 10.1140/epjds/s13688-022-00374-2. 
 
 - [_Desarrollo y evaluación de un modelo de diseño de visualizaciones para inteligencia artificial explicable_ [Development and evaluation of a visualization design model for explainable artificial intelligence]](https://repositorio.uc.cl/handle/11534/63178). Master's thesis in the Pontifica Universidad Católica de Chile, Santiago, Chile. 2022.
 

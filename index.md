@@ -24,21 +24,23 @@ layout: home
 
 ## Research interests 
 
-Information Visualization, Applications of Data Mining & Machine Learning
+Information Visualization, Applications of Data Mining, Machine Learning, Web Scraping
 
 --------------
 
 ## Teaching (spanish course)
 
+- [2023-2 IIC2026: Information Visualization](https://puc-infovis.github.io/version-2023-2/)
+- [2023-2 IIC2233: Advanced Computer Programming](https://github.com/IIC2233/Syllabus)
 - [2023-1 INF3842: Information Visualization and Visual Analytics](https://github.com/Hernan4444/INF3842-2023-1)
 - [2023-1 IIC2026: Information Visualization](https://puc-infovis.github.io/version-2023-1/)
-- [2023-1 IIC2233: Advanced Computer Programming](https://github.com/IIC2233/Syllabus)
+- [2023-1 IIC2233: Advanced Computer Programming](https://github.com/IIC2233/Syllabus-2023-1)
 - [2022-2 IIC2026: Information Visualization](https://puc-infovis.github.io/version-2022/)
 - [2022-2 IIC2233: Advanced Computer Programming](https://github.com/IIC2233/Syllabus-2022-2)
 
 --------------
 
-## My projects
+## Projects
 
 ### Datasets
 
@@ -70,6 +72,12 @@ Information Visualization, Applications of Data Mining & Machine Learning
 - [**Language-Network**](https://hernan4444.github.io/Language-Network/): show language similarity based on the Levenshtein distance, a string metric for measuring the difference between two words. Work done [by other people](http://languagenetwork.cotrino.com/), but not currently working. I only edited the minimum necessary to make the visualization work again.
 
 - [**Museum MONA visualization** (spanish visualization)][museum-mona-visualization]: artistic visualization  to explore data about the Mona museum. Homework for the students of my course Visualization of information in 2022-2.
+
+- [**IMDB Movies visualization** (spanish visualization)](https://hernan4444.github.io/iic2026/2023_1/tareas/t3/solution/): artistic visualization to explore data about IMDB movies. Homework for the students of my course Visualization of information in 2023-1.
+
+<!---
+- [**Solar System visualization** (spanish visualization)][https://hernan4444.github.io/iic2026/2023_2/tareas/t2/solution/vis.html]: artistic visualization to explore data about Solar System. Homework for the students of my course Visualization of information in 2023-2.
+-->
 
 ### Others
 - [**Monogatari** (spanish project)][monogatari]: create your own story with random cards.

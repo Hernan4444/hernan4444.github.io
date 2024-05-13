@@ -86,6 +86,8 @@ Information Visualization, Applications of Data Mining, Machine Learning, Web Sc
 
 - [**Tic Tac Toe Version 2**][tic-tac-toe]: play Tic Tac Toe where the tokens can eat the smallest tokens.
 
+- [**Anidle (spanish project)**][anidle]: guess the anime of the day.
+
 
 --------------
 
@@ -132,3 +134,4 @@ Information Visualization, Applications of Data Mining, Machine Learning, Web Sc
 [barchart-race]: https://hernan4444.github.io/iic2026/otros/barchart-race/
 [tic-tac-toe]: https://hernan4444.github.io/iic2026/otros/tic-tac-toe/
 [museum-mona-visualization]: https://hernan4444.github.io/iic2026/2022_2/Soluciones/T02/
+[anidle]: https://hernan4444.github.io/anidle/

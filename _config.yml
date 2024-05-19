@@ -20,7 +20,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
-google_analytics: G-FNSP8VWN7K
+google_analytics: G-01BN31GFJ1
 
 # Build settings
 markdown: kramdown

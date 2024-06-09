@@ -30,8 +30,11 @@ Information Visualization, Applications of Data Mining, Machine Learning, Web Sc
 
 ## Teaching (spanish course)
 
+- [2024-1 IIC2026: Information Visualization](https://puc-infovis.github.io/version-2024-1/)
+- [2024-1 IIC2233: Advanced Computer Programming](https://github.com/IIC2233/Syllabus)
+- [2024-1 INF3842: Information Visualization and Visual Analytics](https://github.com/Hernan4444/INF3842-2024-1)
 - [2023-2 IIC2026: Information Visualization](https://puc-infovis.github.io/version-2023-2/)
-- [2023-2 IIC2233: Advanced Computer Programming](https://github.com/IIC2233/Syllabus)
+- [2023-2 IIC2233: Advanced Computer Programming](https://github.com/IIC2233/Syllabus-2023-2)
 - [2023-1 INF3842: Information Visualization and Visual Analytics](https://github.com/Hernan4444/INF3842-2023-1)
 - [2023-1 IIC2026: Information Visualization](https://puc-infovis.github.io/version-2023-1/)
 - [2023-1 IIC2233: Advanced Computer Programming](https://github.com/IIC2233/Syllabus-2023-1)

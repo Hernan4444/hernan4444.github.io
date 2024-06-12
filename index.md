@@ -80,9 +80,8 @@ Information Visualization, Applications of Data Mining, Machine Learning, Web Sc
 
 - [**Solar System visualization** (spanish visualization)](https://hernan4444.github.io/iic2026/2023_2/tareas/t2/solution/vis.html): artistic visualization to explore data about Solar System. Homework for the students of my course Visualization of information in 2023-2.
 
-<!---
 - [**Dragon Ball visualization** (spanish visualization)](https://hernan4444.github.io/iic2026/2024_1/tareas/t2/solution/vis.html): artistic visualization to explore data about Dragon Ball in honor of Akira Toriyama. Homework for the students of my course Visualization of information in 2024-1.
--->
+
 
 ### Others
 - [**Monogatari** (spanish project)][monogatari]: create your own story with random cards.

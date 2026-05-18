@@ -29,13 +29,17 @@ Information Visualization, Applications of Data Mining, Machine Learning, Web Sc
 --------------
 
 ## Teaching (spanish course)
-
+- [2026-2 INF3842: Information Visualization and Visual Analytics](https://github.com/Hernan4444/INF3842-2026-2)
+- [2026-1 IIC2523: Distributed Systems](https://github.com/IIC2523-UC/Syllabus-2026-1)
+- [2025-2 IIC2523: Distributed Systems](https://github.com/IIC2523-UC/Syllabus-2025-2)
+- [2025-2 INF3842: Information Visualization and Visual Analytics](https://github.com/Hernan4444/INF3842-2025-2)
+- [2024-2 IIC2233: Advanced Computer Programming](https://github.com/IIC2233/Syllabus-2024-2)
+- [2024-2 INF3842: Information Visualization and Visual Analytics](https://github.com/Hernan4444/INF3842-2024-2)
 - [2024-1 IIC2026: Information Visualization](https://puc-infovis.github.io/version-2024-1/)
-- [2024-1 IIC2233: Advanced Computer Programming](https://github.com/IIC2233/Syllabus)
-- [2024-1 INF3842: Information Visualization and Visual Analytics](https://github.com/Hernan4444/INF3842-2024-1)
+- [2024-1 IIC2233: Advanced Computer Programming](https://github.com/IIC2233/Syllabus-2024-1)
 - [2023-2 IIC2026: Information Visualization](https://puc-infovis.github.io/version-2023-2/)
 - [2023-2 IIC2233: Advanced Computer Programming](https://github.com/IIC2233/Syllabus-2023-2)
-- [2023-1 INF3842: Information Visualization and Visual Analytics](https://github.com/Hernan4444/INF3842-2023-1)
+- [2023-2 INF3842: Information Visualization and Visual Analytics](https://github.com/Hernan4444/INF3842-2023-2)
 - [2023-1 IIC2026: Information Visualization](https://puc-infovis.github.io/version-2023-1/)
 - [2023-1 IIC2233: Advanced Computer Programming](https://github.com/IIC2233/Syllabus-2023-1)
 - [2022-2 IIC2026: Information Visualization](https://puc-infovis.github.io/version-2022/)

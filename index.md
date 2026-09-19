@@ -29,6 +29,7 @@ Information Visualization, Applications of Data Mining, Machine Learning, Web Sc
 --------------
 
 ## Teaching (spanish course)
+- [2026-2 IIC2523: Distributed Systems](https://github.com/IIC2523-UC/Syllabus-2026-2)
 - [2026-2 INF3842: Information Visualization and Visual Analytics](https://github.com/Hernan4444/INF3842-2026-2)
 - [2026-1 IIC2523: Distributed Systems](https://github.com/IIC2523-UC/Syllabus-2026-1)
 - [2025-2 IIC2523: Distributed Systems](https://github.com/IIC2523-UC/Syllabus-2025-2)
@@ -98,6 +99,10 @@ Information Visualization, Applications of Data Mining, Machine Learning, Web Sc
 --------------
 
 ## Publications
+
+- Gómez-Zará, D., Valdivieso, H., Pérez, J., Parra, D., & Valenzuela, S. (2026). [Revisiting Framing Codebooks with AI: Employing Large Language Models as Analytical Collaborators in Deductive Content Analysis](https://doi.org/10.1080/21670811.2026.2730327). Digital Journalism, 1–19. https://doi.org/10.1080/21670811.2026.2730327.
+
+- Carvallo, A. et al. (2026). [User Perception of Attention Visualizations: Effects on Interpretability Across Evidence-Based Medical Documents](https://doi.org/10.1007/978-3-032-08970-0_7). In: Guo, X., et al. Human-AI Collaboration. HAIC 2025. Lecture Notes in Computer Science, vol 16214. Springer, Cham. https://doi.org/10.1007/978-3-032-08970-0_7.
 
 - Vera, Camila & Lucchini, Francesca & Bro, Naim & Mendoza, Marcelo & Löbel, Hans & Gutiérrez, Felipe & Dimter, Jan & Cuchacovic, Gabriel & Reyes, Axel & Valdivieso, Hernán & Alvarado, Nicolás & Toro, Sergio. (2022). [Learning to cluster urban areas: two competitive approaches and an empirical validation](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-022-00374-2). EPJ Data Science. 11. 10.1140/epjds/s13688-022-00374-2. 
 
